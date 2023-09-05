@@ -18,7 +18,6 @@ de mercado.
 
 
 
-# ✧.* O Site:
-## ⋆.ೃ࿔:･ Tech Innovation ⋆.ೃ࿔:･
+# ⋆.ೃ࿔:･ Tech Innovation ⋆.ೃ࿔:･
 **Marketplace dinâmico, para amantes de tecnologia e inovação!! 💻**
 
