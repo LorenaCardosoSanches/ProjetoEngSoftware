@@ -28,4 +28,4 @@ de mercado.
 # ⋆.ೃ࿔:･ Tech Innovation ⋆.ೃ࿔:･
 **Marketplace dinâmico, para amantes de tecnologia e inovação!! 💻**
 
-![PAGE DIVIDER](https://github.com/LorenaCardosoSanches/ProjetoEngSoftware/blob/main/page%20divider.png)
+![PAGE DIVIDER](https://github.com/LorenaCardosoSanches/ProjetoEngSoftware/blob/main/img/Logo%20e%20Decora%C3%A7%C3%B5es/page%20divider.png)
